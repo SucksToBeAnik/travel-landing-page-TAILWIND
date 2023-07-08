@@ -1413,3 +1413,9 @@ video {
     line-height: 1;
   }
 }
+
+@media (min-width: 1536px) {
+  .\32xl\:w-3\/5 {
+    width: 60%;
+  }
+}
