@@ -1,2 +1,2 @@
 # travel-landing-page-tailiwnd
-The page is currently live at [Netlify](https://travelwithtailwind.netlify.app/).
+The page is currently live here at [Netlify](https://travelwithtailwind.netlify.app/).
